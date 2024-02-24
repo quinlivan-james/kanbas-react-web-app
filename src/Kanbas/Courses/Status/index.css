@@ -1,0 +1,25 @@
+.wd-kanbas-status {
+    background-color: gray;
+    list-style: none;
+    padding: 0px;  margin: 0px;
+    width: 80px;
+  }
+  .wd-kanbas-status li {
+    padding: 100px;     margin-bottom: 10px;
+
+  }
+  .wd-kanbas-status li.wd-active {
+    background-color: white;
+  }
+  .wd-kanbas-status li.wd-active a {
+    color: red;
+  }
+  .wd-kanbas-status a {
+    color: white;
+    text-decoration: none;
+  }
+  .wd-kanbas-status a i {
+    color: red;
+    font-size: 2em;
+    margin-bottom: 5px;
+  }
